@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/ThirdPersonCam.cs" />
+    <Compile Include="Assets/Scripts/CoinCount.cs" />
     <Compile Include="Assets/rigi.cs" />
     <Compile Include="Assets/Scripts/PlayerMovement.cs" />
   </ItemGroup>
